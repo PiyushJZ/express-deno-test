@@ -1,0 +1,9 @@
+{
+  "tasks": {
+    "dev": "deno run --watch --allow-read --allow-env --allow-net main.ts",
+    "deploy": ""
+  },
+  "imports": {
+    "express": "npm:express@^4.18"
+  }
+}
